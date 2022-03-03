@@ -37,10 +37,10 @@ detail.request(function (json) {
 ## Structure
 
 library:
-    - [window.Info](https://github.com/energia-source/widget-info#class-windowinfo-usable-methods)
-    - [window.Info.Line](https://github.com/energia-source/widget-info#class-windowinfoline-usable-methods)
-    - [window.Info.Preloader](https://github.com/energia-source/widget-info#class-windowinfopreloader-usable-methods)
-    - [window.Info.Image](https://github.com/energia-source/widget-info#class-windowinfoimage-usable-methods)
+- [window.Info](https://github.com/energia-source/widget-info#class-windowinfo-usable-methods)
+- [window.Info.Line](https://github.com/energia-source/widget-info#class-windowinfoline-usable-methods)
+- [window.Info.Preloader](https://github.com/energia-source/widget-info#class-windowinfopreloader-usable-methods)
+- [window.Info.Image](https://github.com/energia-source/widget-info#class-windowinfoimage-usable-methods)
 
 <br>
 
